@@ -8,3 +8,5 @@ This project is a template to get you started making a rich application with Ang
  - Configured app.yaml file
 
  Would like to include in the future a custom built angular service for the Google App Engine Channel API.
+ 
+ ### Inactive Don't Use This
